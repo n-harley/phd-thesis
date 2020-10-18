@@ -6,4 +6,4 @@
 
 ## 2019
 
-Examined and passed subject to the satisfactory completion of minor amendments to the thesis.
+Awarded 31st May 2020. 
