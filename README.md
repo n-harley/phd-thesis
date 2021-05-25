@@ -1,4 +1,4 @@
-# Abstract representation of music: a type-based knoweldge representation framework.
+# Abstract representation of music: a type-based knowledge representation framework.
 
 ## Nicholas Harley
 
